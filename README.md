@@ -1,4 +1,4 @@
-# sqlpractice
+# Retail Sales 
 Beginning of SQL journey 
 # Retail Sales Analysis SQL Project
 
